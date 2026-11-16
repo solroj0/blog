@@ -1,3 +1,13 @@
+Eventual goal:
+<br> - Create dir ./blog , then create packets of text sectioned by time
+<br> - Additional and important; script to update parent dir w most recent blog + link here
+
+
+
+
+
+
+
 -------------------------------- 
 Nov 15
 
