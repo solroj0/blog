@@ -25,3 +25,8 @@ I have the best leadership I've ever worked with. So much so I am worried for th
 But, like much else, it is what you make of it. The absence of someone great should inspire you to fill that void.
 
 --------------------------------
+
+Nov 15 (late) <br>
+Optimistic. So much I want to do. first phase; create skeleton of all great works and minor too. Want to add - words.of.power, maps (project).
+additional; not as important; recipes, inventory (tools and library).
+- need sleep, then abtract on paper, scan mail upload here
